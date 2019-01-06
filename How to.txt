@@ -1,0 +1,41 @@
+*************************************************
+How to download pj correctly:
+*************************************************
+	Open git-bash amd write next commands:
+		1.Configure GIT at first:
+			1.1. git config --global user.name "Your Name"
+			1.2. git config --global user.email "Your mail"
+		2. Choose some folder where you want to place repo
+			2.1. git clone --branch release/R00 https://github.com/MaximDenisuk/VR_MMO_RPG.git
+			2.2. git submodule update --init --recursive
+
+Now you have 2 repos downloaded, in this folder "VR_MMO_RPG" you have project structure + one submodule (also repo) named VR_MMO_RPG_DOCS. The release-branches should be equal for both repo VR_MMO_RPG and VR_MMO_RPG_DOCS.
+
+Have a fun!
+
+*************************************************
+How to work inside repo
+*************************************************
+If you want to make some changes inside repo without updaiting docs, you should create new branch named "develop/<feature name>" for this you need to do next actions:
+	0. Find the latest release:
+		git branch --all | grep "release/"
+	1. Checkout to the latest release:
+		git checkout release/R00
+	2. Checkout to the new branch based on it:
+		git checkout -b develop/CreatingOfHandsControll (adequate feature name, not like MyFf1)
+	3. Do some changes that u need, TEST it for regresion and then add them to stage area
+		3.1 View changes:
+			git status
+		3.2 Add changes:
+			git add myChangedFile.cpp or git add . (if u are shure that evth is correct)
+	4. Commit changes to branch, put here adequate comment about the work result that you have done:
+		git commit -m "[TaskName from trelo/jira] Left and right hands controll was added"
+	5. When all commits are done, push changes to repo
+		git push orign develop/CreatingOfHandsControll (your branch name)
+	6. Move your task to verification section using trelo
+
+The job is complete, time to take a break and tea =)
+
+*************************************************
+
+If you want to make some changes inside repo with docs update, you should do everething that was described upper in both repo.
