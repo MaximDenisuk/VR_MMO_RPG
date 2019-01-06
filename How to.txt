@@ -29,12 +29,15 @@ If you want to make some changes inside repo without updaiting docs, you should 
 		3.2 Add changes:
 			git add myChangedFile.cpp or git add . (if u are shure that evth is correct)
 	4. Commit changes to branch, put here adequate comment about the work result that you have done:
-		git commit -m "[TaskName from trelo/jira] Left and right hands controll was added"
+		git commit -m "Left and right hands controll was added"
 	5. When all commits are done, push changes to repo
 		git push orign develop/CreatingOfHandsControll (your branch name)
-	6. Move your task to verification section using trelo
+	6. After "push" you will see the link like this:
+		https://github.com/MaximDenisuk/VR_MMO_RPG/pull/new/develop/NewTestPolygonCreated 
+	   Visit it, and then push button "Create Pull request" on github
+	7. Move your task to verification section using trelo and attach link to the task in comments
 
-The job is complete, time to take a break and tea =)
+The job is now complete, time to take a break and waiting for review.
 
 *************************************************
 
