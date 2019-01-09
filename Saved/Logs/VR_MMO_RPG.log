@@ -1295,3 +1295,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.09-20.23.28:271][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2019.01.09-20.23.28:271][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2019.01.09-20.23.32:290][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.24.52:628][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.24.52:740][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.09-20.24.52:990][674]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench2331A83B4E661187030D9BA994868986.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap'
+[2019.01.09-20.24.53:010][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench_BuiltData" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset" SILENT=true
+[2019.01.09-20.24.53:023][674]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench_BuiltData73DD74F8440618B8870A039727C6E727.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset'
+[2019.01.09-20.24.59:708][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.25.00:232][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.25.00:245][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.25.00:305][213]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam2F07B3A1467F3BBB973DFDB20B62BC44.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.25.01:590][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.25.01:723][373]LogSlate: Window 'PawnStaticCam' being destroyed
+[2019.01.09-20.25.01:728][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.09-20.25.02:819][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.25.04:347][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.25.04:440][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.09-20.25.04:685][688]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBenchA25AFD614EEE4D8B299D348E0C47C1BC.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap'
+[2019.01.09-20.25.04:705][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench_BuiltData" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset" SILENT=true
+[2019.01.09-20.25.04:714][688]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench_BuiltData721C3BDA419638FC56786E8F72E810E3.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset'
