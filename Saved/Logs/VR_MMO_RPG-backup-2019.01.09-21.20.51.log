@@ -1,0 +1,1315 @@
+﻿Log file open, 01/09/19 22:45:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_MMO_RPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272067
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.09-19.45.33:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:640][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:641][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.09-19.45.33:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.09-19.45.33:642][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.09-19.45.33:642][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.09-19.45.33:642][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.09-19.45.33:651][  0]LogHAL: Display: Platform has ~ 16 GB [17108688896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.09-19.45.33:651][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Scalability.ini]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.09-19.45.33:651][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.09-19.45.33:652][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.09-19.45.33:652][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyVRProjects/VR_MMO_RPG/Saved/Config/Windows/Engine.ini]
+[2019.01.09-19.45.33:652][  0]LogInit: Computer: MDENYSIUK-HOME
+[2019.01.09-19.45.33:652][  0]LogInit: User: Max
+[2019.01.09-19.45.33:652][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.09-19.45.33:652][  0]LogInit: High frequency timer resolution =4.101563 MHz
+[2019.01.09-19.45.33:652][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.09-19.45.33:652][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.09-19.45.33:652][  0]LogMemory: Process Physical Memory: 101.94 MB used, 101.94 MB peak
+[2019.01.09-19.45.33:652][  0]LogMemory: Process Virtual Memory: 91.27 MB used, 91.27 MB peak
+[2019.01.09-19.45.33:652][  0]LogMemory: Physical Memory: 5912.15 MB used,  10403.97 MB free, 16316.12 MB total
+[2019.01.09-19.45.33:652][  0]LogMemory: Virtual Memory: 4652.22 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.01.09-19.45.33:666][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.09-19.45.33:666][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.09-19.45.33:667][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.01.09-19.45.33:668][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.01.09-19.45.33:668][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.09-19.45.33:698][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.09-19.45.33:698][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.09-19.45.33:839][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.09-19.45.33:839][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.09-19.45.33:897][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.01.09-19.45.33:898][  0]LogD3D11RHI:       8079/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.09-19.45.33:899][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.09-19.45.33:899][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.09-19.45.33:899][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.09-19.45.33:905][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.09-19.45.33:905][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.09-19.45.33:905][  0]LogWindows: EnumDisplayDevices:
+[2019.01.09-19.45.33:905][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.01.09-19.45.33:905][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.09-19.45.33:905][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.09-19.45.33:905][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.09-19.45.33:905][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.09-19.45.33:905][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.01.09-19.45.33:905][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.01.09-19.45.33:905][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.01.09-19.45.33:905][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.01.09-19.45.33:936][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.09-19.45.33:963][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.09-19.45.34:218][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.09-19.45.34:227][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.09-19.45.34:236][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.09-19.45.34:245][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.09-19.45.34:254][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.09-19.45.34:263][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.09-19.45.34:271][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.09-19.45.34:279][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.09-19.45.34:283][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.09-19.45.34:338][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.09-19.45.34:390][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.09-19.45.34:390][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.09-19.45.34:408][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.09-19.45.34:408][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.09-19.45.34:417][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.09-19.45.34:425][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.09-19.45.34:434][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.09-19.45.34:442][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.09-19.45.34:474][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.09-19.45.34:474][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.09-19.45.34:474][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.09-19.45.34:503][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../MyVRProjects/VR_MMO_RPG/Intermediate/Shaders/WorkingDirectory/17840/).
+[2019.01.09-19.45.34:503][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Max/AppData/Local/Temp/UnrealShaderWorkingDir/381E0BF1450B53558E9708ADA589E494/'.
+[2019.01.09-19.45.34:504][  0]LogXGEController: Cleaning working directory: C:/Users/Max/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.09-19.45.34:504][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.09-19.45.34:504][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.09-19.45.34:504][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.09-19.45.34:891][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.09-19.45.34:930][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Max/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.09-19.45.34:930][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Max/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.09-19.45.34:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MyVRProjects/VR_MMO_RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.09-19.45.34:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.09-19.45.34:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MyVRProjects/VR_MMO_RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.09-19.45.34:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.09-19.45.34:940][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.09-19.45.34:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.09-19.45.34:940][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.09-19.45.34:952][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.09-19.45.34:952][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.09-19.45.34:952][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.09-19.45.34:968][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.09-19.45.34:969][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.09-19.45.34:970][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.09-19.45.35:035][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2019.01.09-19.45.35:258][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.09-19.45.35:362][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.09-19.45.35:364][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.09-19.45.35:364][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.09-19.45.35:364][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.09-19.45.35:364][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.09-19.45.35:373][  0]LogNetVersion: VR_MMO_RPG 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 28285348)
+[2019.01.09-19.45.35:727][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.063936 seconds
+[2019.01.09-19.45.35:731][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.09-19.45.35:731][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.01.09-19.45.35:731][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.09-19.45.36:316][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.09-19.45.36:328][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.09-19.45.36:806][  0]SourceControl: Source control is disabled
+[2019.01.09-19.45.36:806][  0]SourceControl: Source control is disabled
+[2019.01.09-19.45.36:807][  0]SourceControl: Source control is disabled
+[2019.01.09-19.45.36:807][  0]SourceControl: Source control is disabled
+[2019.01.09-19.45.36:940][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.09-19.45.36:997][  0]LogOcInput: OculusInput pre-init called
+[2019.01.09-19.45.37:115][  0]LogEngine: Initializing Engine...
+[2019.01.09-19.45.37:131][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.09-19.45.37:132][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.09-19.45.37:132][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.09-19.45.37:132][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.09-19.45.37:132][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.09-19.45.37:298][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.09-19.45.37:305][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.09-19.45.37:319][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-19.45.37:333][  0]LogInit: FAudioDevice initialized.
+[2019.01.09-19.45.37:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.09-19.45.37:467][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Max/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.09-19.45.37:479][  0]LogInit: Texture streaming: Enabled
+[2019.01.09-19.45.37:487][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.09-19.45.37:495][  0]LogInit: Transaction tracking system initialized
+[2019.01.09-19.45.37:506][  0]BlueprintLog: New page: Editor Load
+[2019.01.09-19.45.37:542][  0]LocalizationService: Localization service is disabled
+[2019.01.09-19.45.37:712][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.01.09-19.45.37:712][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.01.09-19.45.37:712][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.01.09-19.45.37:857][  0]LogFileCache: Scanning file cache for directory 'D:/MyVRProjects/VR_MMO_RPG/Content/' took 0.01s
+[2019.01.09-19.45.37:857][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.09-19.45.37:858][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.09-19.45.37:858][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.09-19.45.37:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.09-19.45.37:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.09-19.45.37:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.09-19.45.37:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.09-19.45.37:932][  0]SourceControl: Source control is disabled
+[2019.01.09-19.45.37:932][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.09-19.45.37:933][  0]LightingResults: New page: Lighting Build
+[2019.01.09-19.45.37:934][  0]MapCheck: New page: Map Check
+[2019.01.09-19.45.37:934][  0]LightingResults: New page: Lighting Build
+[2019.01.09-19.45.38:050][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.09-19.45.38:054][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.09-19.45.38:072][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.09-19.45.38:072][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2019.01.09-19.45.38:072][  0]LogFileHelpers: Loading map 'Template_Default' took 0.139
+[2019.01.09-19.45.38:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-19.45.38:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-19.45.38:171][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-19.45.38:177][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-19.45.38:180][  0]LogCollectionManager: Loaded 0 collections in 0.000620 seconds
+[2019.01.09-19.45.38:194][  0]LogFileCache: Scanning file cache for directory 'D:/MyVRProjects/VR_MMO_RPG/Saved/Collections/' took 0.01s
+[2019.01.09-19.45.38:194][  0]LogFileCache: Scanning file cache for directory 'D:/MyVRProjects/VR_MMO_RPG/Content/Developers/Max/Collections/' took 0.00s
+[2019.01.09-19.45.38:194][  0]LogFileCache: Scanning file cache for directory 'D:/MyVRProjects/VR_MMO_RPG/Content/Collections/' took 0.00s
+[2019.01.09-19.45.38:194][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.09-19.45.38:200][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2651 classes and 620 folders.
+[2019.01.09-19.45.38:204][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.09-19.45.38:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.09-19.45.38:230][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.09-19.45.38:232][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.09-19.45.38:243][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.09-19.45.38:245][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.09-19.45.38:249][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.09-19.45.38:305][  0]LogRenderer: Reallocating scene render targets to support 912x508 Format 10 NumSamples 1 (Frame:1).
+[2019.01.09-19.45.38:384][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.09-19.45.38:384][  0]LogLoad: (Engine Initialization) Total time: 5.94 seconds
+[2019.01.09-19.45.38:384][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.09-19.45.38:394][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.45.38:448][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.09-19.45.38:483][  1]LogAssetRegistry: Asset discovery search completed in 3.4691 seconds
+[2019.01.09-19.45.38:484][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.09-19.45.38:484][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.01.09-19.45.41:274][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.45.41:381][346]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.09-19.45.43:412][590]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.09-19.45.43:539][590]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-19.45.43:546][590]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/FirstTestBench.FirstTestBench
+[2019.01.09-19.45.43:565][590]Cmd: MAP LOAD FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.09-19.45.43:565][590]LightingResults: New page: Lighting Build
+[2019.01.09-19.45.43:566][590]LoadErrors: New page: Loading map: FirstTestBench.umap
+[2019.01.09-19.45.43:566][590]MapCheck: New page: Map Check
+[2019.01.09-19.45.43:566][590]LightingResults: New page: Lighting Build
+[2019.01.09-19.45.43:673][590]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.09-19.45.43:712][590]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.09-19.45.43:712][590]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2019.01.09-19.45.43:712][590]LogFileHelpers: Loading map 'FirstTestBench' took 0.147
+[2019.01.09-19.45.45:155][756]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.01.09-19.45.48:837][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.46.11:898][749]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/StaticCam/StaticCamWithObserver.StaticCamWithObserver
+[2019.01.09-19.46.12:210][749]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.09-19.46.12:723][749]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.09-19.46.12:754][750]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.09-19.46.18:593][414]LogRenderer: Reallocating scene render targets to support 1044x732 Format 10 NumSamples 1 (Frame:1).
+[2019.01.09-19.46.28:193][408]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.09-19.46.31:842][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.46.31:842][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.46.32:050][869]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.46.32:050][869]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.46.34:893][209]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/StaticCam/Test.Test
+[2019.01.09-19.46.44:852][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.46.44:936][335]LogRenderer: Reallocating scene render targets to support 1048x732 Format 10 NumSamples 1 (Frame:1202).
+[2019.01.09-19.47.20:017][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.47.41:728][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.47.52:800][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.48.43:545][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-19.48.43:620][ 54]BlueprintLog: New page: Compile Test
+[2019.01.09-19.48.44:388][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/Test" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/Test.uasset" SILENT=true
+[2019.01.09-19.48.44:407][120]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/Test250A617D410BA91FBB91BAB7941F0FFC.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/Test.uasset'
+[2019.01.09-19.48.55:033][224]BlueprintLog: New page: Compile Test
+[2019.01.09-19.48.55:733][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/Test" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/Test.uasset" SILENT=true
+[2019.01.09-19.48.55:773][286]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/Test18E878EB4FDD08F7F2C51C8C10FB9017.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/Test.uasset'
+[2019.01.09-19.49.05:772][365]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.09-19.49.05:874][371]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRMMORPG
+[2019.01.09-19.49.05:874][371]LogTemp: CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.09-19.49.05:874][371]LogTemp: Initial Dir: D:\Games\UE_4.21
+[2019.01.09-19.49.05:874][371]LogTemp: Env CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.09-19.49.05:874][371]LogTemp: BranchPath = MDENYSIUK-HOME/D/Games/UE_4.21/Engine/Binaries --- GameBranchPath = MDENYSIUK-HOME/D/Games/UE_4.21/Engine/Binaries
+[2019.01.09-19.49.05:884][372]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Max\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.09-19.49.21:414][214]BlueprintLog: New page: Compile Test
+[2019.01.09-19.49.25:934][721]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.49.25:934][721]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.49.26:804][825]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.49.26:804][825]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.50.05:971][393]BlueprintLog: New page: Compile Test
+[2019.01.09-19.50.06:552][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/Test" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/Test.uasset" SILENT=true
+[2019.01.09-19.50.06:571][445]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/Test423F2C594CF47BB502A9DAA05E24EFC8.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/Test.uasset'
+[2019.01.09-19.50.14:311][371]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.09-19.50.19:975][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.09-19.50.20:233][ 47]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBenchCFF7913349715C33E0102D9D2900CF28.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap'
+[2019.01.09-19.50.20:255][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench_BuiltData" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset" SILENT=true
+[2019.01.09-19.50.20:270][ 47]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench_BuiltData3936C6264BBBCF6664DDB7BF2FECAD6F.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset'
+[2019.01.09-19.50.21:331][173]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-19.50.21:347][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-19.50.21:347][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-19.50.21:347][173]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 1:50:21)
+[2019.01.09-19.50.21:359][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-19.50.21:374][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016465s)
+[2019.01.09-19.50.21:375][173]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-19.50.21:375][173]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2019.01.09-19.50.21:375][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.017211s)
+[2019.01.09-19.50.21:405][173]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-19.50.21:416][173]LogInit: FAudioDevice initialized.
+[2019.01.09-19.50.21:459][173]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-19.50.21:461][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-22.50.21
+[2019.01.09-19.50.21:461][173]LogWorld: Bringing up level for play took: 0.001611
+[2019.01.09-19.50.21:495][173]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.01.09-19.50.21:507][173]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,034
+[2019.01.09-19.50.21:507][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-19.50.27:490][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-19.50.27:490][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-19.50.27:525][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-19.50.27:526][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-19.50.27:545][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-19.50.27:593][891]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.09-19.50.30:128][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-19.51.03:094][347]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.51.03:095][347]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.51.39:282][287]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.51.39:282][287]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-19.51.40:750][463]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.09-19.51.40:754][463]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.09-19.59.19:605][775]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.09-19.59.19:620][776]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-19.59.19:620][776]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-19.59.19:620][776]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-19.59.19:620][776]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-19.59.19:620][776]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-19.59.19:620][776]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-19.59.38:529][393]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (18.909 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.09-20.00.26:409][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstTestBench' took 0.023
+[2019.01.09-20.00.26:410][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/StaticCam/StaticCamWithObserverGameMode] ([1] browsable assets)...
+[2019.01.09-20.00.26:410][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/StaticCam/StaticCamWithObserverGameMode]
+[2019.01.09-20.00.26:436][536]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/StaticCamWithObserverGameMode_AuA5E1D5C24AD949429E830785CAB29A9D.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Saved/Autosaves/Game/Character/StaticCam/StaticCamWithObserverGameMode_Auto1.uasset'
+[2019.01.09-20.00.26:436][536]LogFileHelpers: Auto-saving content packages took 0.026
+[2019.01.09-20.01.21:332][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.01.30:043][204]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.09-20.01.30:110][204]LogSlate: Window 'Test' being destroyed
+[2019.01.09-20.01.30:114][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.09-20.01.33:351][474]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/StaticCam/Test.Test
+[2019.01.09-20.02.18:074][441]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.09-20.02.22:825][  8]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.02.22:825][  8]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.02.30:091][876]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/StaticCam/PawnStaticCam.PawnStaticCam
+[2019.01.09-20.02.34:466][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.03.11:818][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.03.22:024][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.03.26:720][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.03.30:412][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.03.39:282][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.03.39:417][826]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.03.47:464][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.03.47:481][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.03.47:505][654]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCamAB5DD71E47EBA2ACD65CD381AB8C79D1.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.03.48:936][822]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.03.52:564][119]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.01.09-20.03.57:029][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.03.57:036][647]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.09-20.04.13:085][538]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.04.13:105][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.13:106][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.04.13:106][538]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:04:13)
+[2019.01.09-20.04.13:106][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.04.13:122][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016145s)
+[2019.01.09-20.04.13:122][538]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.04.13:123][538]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.01.09-20.04.13:123][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016775s)
+[2019.01.09-20.04.13:155][538]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.04.13:167][538]LogInit: FAudioDevice initialized.
+[2019.01.09-20.04.13:199][538]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.04.13:202][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.04.13
+[2019.01.09-20.04.13:202][538]LogWorld: Bringing up level for play took: 0.001533
+[2019.01.09-20.04.13:214][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,328
+[2019.01.09-20.04.13:214][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.17:188][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.17:188][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.04.17:220][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.04.17:220][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.17:243][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.04.17:289][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.09-20.04.21:239][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.04.41:822][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.04.41:838][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.04.41:863][396]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam773995F84370D7D1C21C068E1FB8D8CB.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.04.43:100][541]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.04.43:115][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.43:115][541]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.09-20.04.43:117][541]LogPlayLevel: [PlayLevel] Compiling PawnStaticCam before play...
+[2019.01.09-20.04.43:249][541]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (1 blueprints)
+[2019.01.09-20.04.43:249][541]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:04:43)
+[2019.01.09-20.04.43:250][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.04.43:265][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015721s)
+[2019.01.09-20.04.43:266][541]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.04.43:266][541]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2019.01.09-20.04.43:266][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016409s)
+[2019.01.09-20.04.43:297][541]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.04.43:307][541]LogInit: FAudioDevice initialized.
+[2019.01.09-20.04.43:338][541]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.04.43:340][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.04.43
+[2019.01.09-20.04.43:341][541]LogWorld: Bringing up level for play took: 0.001503
+[2019.01.09-20.04.43:353][541]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,188
+[2019.01.09-20.04.43:353][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.45:661][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.45:661][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.04.45:690][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.04.45:690][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.45:710][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.04.45:765][698]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.09-20.04.47:665][860]Cmd: TRANSACTION UNDO
+[2019.01.09-20.04.47:665][860]LogEditorTransaction: Undo Modify Component(s)
+[2019.01.09-20.04.50:730][222]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.04.50:745][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.50:745][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.04.50:745][222]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:04:50)
+[2019.01.09-20.04.50:745][222]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.04.50:761][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015643s)
+[2019.01.09-20.04.50:761][222]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.04.50:761][222]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.01.09-20.04.50:761][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016179s)
+[2019.01.09-20.04.50:793][222]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.04.50:803][222]LogInit: FAudioDevice initialized.
+[2019.01.09-20.04.50:830][222]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.04.50:832][222]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.04.50
+[2019.01.09-20.04.50:833][222]LogWorld: Bringing up level for play took: 0.001529
+[2019.01.09-20.04.50:845][222]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,697
+[2019.01.09-20.04.50:845][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.54:199][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.54:199][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.04.54:233][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.04.54:233][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.04.54:257][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.04.54:301][626]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.09-20.05.06:229][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.05.06:229][149]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.05.06:229][149]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.05.14:461][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.05.19:456][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.05.19:473][653]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam218B88B24A6B09CEEACC339B5B831043.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.05.20:449][765]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.05.23:933][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.05.23:948][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.23:948][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.05.23:948][ 27]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:05:23)
+[2019.01.09-20.05.23:948][ 27]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.05.23:965][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017165s)
+[2019.01.09-20.05.23:966][ 27]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.05.23:966][ 27]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2019.01.09-20.05.23:966][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.017939s)
+[2019.01.09-20.05.23:997][ 27]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.05.24:007][ 27]LogInit: FAudioDevice initialized.
+[2019.01.09-20.05.24:035][ 27]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.05.24:037][ 27]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.05.24
+[2019.01.09-20.05.24:037][ 27]LogWorld: Bringing up level for play took: 0.001629
+[2019.01.09-20.05.24:050][ 27]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,508
+[2019.01.09-20.05.24:050][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.27:567][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.27:567][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.05.27:601][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.05.27:601][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.27:627][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.05.27:672][443]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.09-20.05.30:266][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.05.42:449][906]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.05.42:464][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.42:464][906]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.09-20.05.42:465][906]LogPlayLevel: [PlayLevel] Compiling PawnStaticCam before play...
+[2019.01.09-20.05.42:578][906]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2019.01.09-20.05.42:578][906]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:05:42)
+[2019.01.09-20.05.42:578][906]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.05.42:594][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015805s)
+[2019.01.09-20.05.42:594][906]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.05.42:595][906]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.01.09-20.05.42:595][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016495s)
+[2019.01.09-20.05.42:626][906]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.05.42:636][906]LogInit: FAudioDevice initialized.
+[2019.01.09-20.05.42:664][906]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.05.42:666][906]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.05.42
+[2019.01.09-20.05.42:666][906]LogWorld: Bringing up level for play took: 0.001494
+[2019.01.09-20.05.42:679][906]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 1,137
+[2019.01.09-20.05.42:679][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.44:048][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.44:048][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.05.44:080][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.05.44:080][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.05.44:099][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.05.44:151][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.09-20.05.45:627][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.06.10:847][180]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.06.10:847][180]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.07.27:357][514]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.07.27:357][514]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.07.30:052][807]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.07.30:052][807]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.08.23:945][595]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.08.25:843][740]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.08.25:857][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.25:858][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.08.25:858][740]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:08:25)
+[2019.01.09-20.08.25:858][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.08.25:874][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015844s)
+[2019.01.09-20.08.25:874][740]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.08.25:874][740]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.01.09-20.08.25:874][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016575s)
+[2019.01.09-20.08.25:908][740]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.08.25:918][740]LogInit: FAudioDevice initialized.
+[2019.01.09-20.08.25:949][740]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.08.25:951][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.08.25
+[2019.01.09-20.08.25:952][740]LogWorld: Bringing up level for play took: 0.001568
+[2019.01.09-20.08.25:964][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,423
+[2019.01.09-20.08.25:964][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.33:285][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.33:285][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.08.33:314][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.08.33:315][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.33:339][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.08.33:387][619]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.09-20.08.34:320][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.08.36:368][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.08.37:128][975]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.09-20.08.37:214][977]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRMMORPG
+[2019.01.09-20.08.37:214][977]LogTemp: CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.09-20.08.37:214][977]LogTemp: Initial Dir: D:\Games\UE_4.21
+[2019.01.09-20.08.37:214][977]LogTemp: Env CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.09-20.08.37:214][977]LogTemp: BranchPath = MDENYSIUK-HOME/D/Games/UE_4.21/Engine/Binaries --- GameBranchPath = MDENYSIUK-HOME/D/Games/UE_4.21/Engine/Binaries
+[2019.01.09-20.08.37:214][977]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Max\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.09-20.08.45:764][976]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.09-20.08.45:769][976]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.09-20.08.46:362][ 45]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.08.47:316][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.08.47:433][170]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.08.47:449][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.47:449][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.08.47:449][170]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:08:47)
+[2019.01.09-20.08.47:449][170]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.08.47:465][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015961s)
+[2019.01.09-20.08.47:466][170]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.08.47:466][170]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2019.01.09-20.08.47:466][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016539s)
+[2019.01.09-20.08.47:495][170]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.08.47:505][170]LogInit: FAudioDevice initialized.
+[2019.01.09-20.08.47:532][170]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.08.47:534][170]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.08.47
+[2019.01.09-20.08.47:534][170]LogWorld: Bringing up level for play took: 0.001531
+[2019.01.09-20.08.47:547][170]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,005
+[2019.01.09-20.08.47:547][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.51:661][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.51:661][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.08.51:695][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.08.51:695][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.08.51:716][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.08.51:767][663]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.09-20.09.03:085][896]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.09.03:085][896]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.09.09:154][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.09.23:392][701]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.09.23:959][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.09.23:978][750]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam445358894C92D15EA043CB87AA23A59F.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.09.24:978][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.09.26:046][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.09.26:128][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.09.26:142][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.09.26:142][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.09.26:142][  6]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:09:26)
+[2019.01.09-20.09.26:142][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.09.26:158][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015650s)
+[2019.01.09-20.09.26:158][  6]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.09.26:158][  6]LogPlayLevel: PIE: World Init took: (0.000428s)
+[2019.01.09-20.09.26:158][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016172s)
+[2019.01.09-20.09.26:190][  6]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.09.26:200][  6]LogInit: FAudioDevice initialized.
+[2019.01.09-20.09.26:228][  6]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.09.26:230][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.09.26
+[2019.01.09-20.09.26:230][  6]LogWorld: Bringing up level for play took: 0.001507
+[2019.01.09-20.09.26:243][  6]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,701
+[2019.01.09-20.09.26:243][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.09.50:674][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.10.19:007][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.10.19:007][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.10.19:041][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.10.19:041][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.10.19:068][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.10.19:112][485]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.09-20.10.21:782][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.10.49:888][  8]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.10.51:765][167]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.10.51:780][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.10.51:780][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.10.51:781][167]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:10:51)
+[2019.01.09-20.10.51:781][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.10.51:797][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015920s)
+[2019.01.09-20.10.51:797][167]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.10.51:797][167]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.01.09-20.10.51:797][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016494s)
+[2019.01.09-20.10.51:828][167]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.10.51:838][167]LogInit: FAudioDevice initialized.
+[2019.01.09-20.10.51:866][167]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.10.51:868][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.10.51
+[2019.01.09-20.10.51:868][167]LogWorld: Bringing up level for play took: 0.001526
+[2019.01.09-20.10.51:880][167]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,339
+[2019.01.09-20.10.51:880][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.10.57:418][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.10.57:418][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.10.57:450][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.10.57:451][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.10.57:473][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.10.57:520][832]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.09-20.11.10:838][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.11.35:200][ 12]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.09-20.11.35:270][ 12]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRMMORPG
+[2019.01.09-20.11.35:270][ 12]LogTemp: CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.09-20.11.35:270][ 12]LogTemp: Initial Dir: D:\Games\UE_4.21
+[2019.01.09-20.11.35:270][ 12]LogTemp: Env CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.09-20.11.35:270][ 12]LogTemp: BranchPath = MDENYSIUK-HOME/D/Games/UE_4.21/Engine/Binaries --- GameBranchPath = MDENYSIUK-HOME/D/Games/UE_4.21/Engine/Binaries
+[2019.01.09-20.11.35:270][ 12]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Max\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.09-20.11.45:893][247]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.09-20.11.45:897][247]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.09-20.11.47:322][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.11.47:760][466]LogEditorTransaction: Undo Edit Scale
+[2019.01.09-20.11.47:944][487]LogEditorTransaction: Undo Edit Scale
+[2019.01.09-20.11.49:069][617]LogEditorTransaction: Undo Move Node
+[2019.01.09-20.11.49:563][673]LogEditorTransaction: Undo Move Node
+[2019.01.09-20.11.49:925][714]LogEditorTransaction: Undo Move Node
+[2019.01.09-20.11.50:236][749]LogEditorTransaction: Undo Create Pin Link
+[2019.01.09-20.11.50:593][789]LogEditorTransaction: Undo Create Pin Link
+[2019.01.09-20.11.50:821][814]LogEditorTransaction: Undo Create Pin Link
+[2019.01.09-20.11.51:100][845]LogEditorTransaction: Undo Create Pin Link
+[2019.01.09-20.11.51:336][871]LogEditorTransaction: Undo Move Node
+[2019.01.09-20.11.51:524][891]LogEditorTransaction: Undo Edit Auto Possess Player
+[2019.01.09-20.11.52:379][991]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.09-20.11.52:883][ 51]LogEditorTransaction: Undo Edit Scale
+[2019.01.09-20.12.06:308][643]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.12.08:565][825]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.12.08:580][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.12.08:580][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.12.08:580][825]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:12:08)
+[2019.01.09-20.12.08:580][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.12.08:596][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015912s)
+[2019.01.09-20.12.08:596][825]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.12.08:596][825]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2019.01.09-20.12.08:597][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016693s)
+[2019.01.09-20.12.08:629][825]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.12.08:639][825]LogInit: FAudioDevice initialized.
+[2019.01.09-20.12.08:672][825]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.12.08:674][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.12.08
+[2019.01.09-20.12.08:674][825]LogWorld: Bringing up level for play took: 0.001522
+[2019.01.09-20.12.08:687][825]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,855
+[2019.01.09-20.12.08:687][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.12.16:246][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.12.16:246][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.12.16:276][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.12.16:276][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.12.16:303][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.12.16:353][725]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.09-20.12.32:613][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.12.34:634][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.12.36:431][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.12.56:239][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.13.03:968][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstTestBench' took 0.027
+[2019.01.09-20.13.03:969][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/StaticCam/StaticCamWithObserverGameMode] ([1] browsable assets)...
+[2019.01.09-20.13.03:969][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/StaticCam/StaticCamWithObserverGameMode]
+[2019.01.09-20.13.03:982][ 61]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/StaticCamWithObserverGameMode_AuFDDCD05A43A83AC91AB6EB9463B0AD76.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Saved/Autosaves/Game/Character/StaticCam/StaticCamWithObserverGameMode_Auto2.uasset'
+[2019.01.09-20.13.03:982][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/StaticCam/PawnStaticCam] ([1] browsable assets)...
+[2019.01.09-20.13.03:989][ 61]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/StaticCam/PawnStaticCam.PawnStaticCam]
+[2019.01.09-20.13.03:989][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/StaticCam/PawnStaticCam]
+[2019.01.09-20.13.04:034][ 61]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam_Auto266EBA4604D799BAE55444FBB2A16CB1E.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Saved/Autosaves/Game/Character/StaticCam/PawnStaticCam_Auto2.uasset'
+[2019.01.09-20.13.04:034][ 61]LogFileHelpers: Auto-saving content packages took 0.065
+[2019.01.09-20.13.12:939][116]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.13.14:063][235]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.13.14:077][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.13.14:078][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.13.14:078][235]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:13:14)
+[2019.01.09-20.13.14:078][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.13.14:094][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016302s)
+[2019.01.09-20.13.14:095][235]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.13.14:095][235]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.01.09-20.13.14:095][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016904s)
+[2019.01.09-20.13.14:127][235]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.13.14:136][235]LogInit: FAudioDevice initialized.
+[2019.01.09-20.13.14:172][235]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.13.14:176][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.13.14
+[2019.01.09-20.13.14:176][235]LogWorld: Bringing up level for play took: 0.003074
+[2019.01.09-20.13.14:189][235]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,647
+[2019.01.09-20.13.14:189][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.13.28:381][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.13.28:381][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.13.28:411][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.13.28:411][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.13.28:437][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.13.28:481][844]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.09-20.13.31:861][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.13.33:415][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.13.33:434][349]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam51EA66104C7E337E0AA67089EF4341A9.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.13.33:756][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.13.52:712][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.13.52:787][290]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.13.54:383][458]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.13.55:065][538]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.01.09-20.14.24:024][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.14.41:482][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.14.45:090][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.14.45:090][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.14.45:090][667]PIE: New page: SIE session: FirstTestBench (10 янв. 2019 г., 2:14:45)
+[2019.01.09-20.14.45:091][667]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.14.45:107][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016160s)
+[2019.01.09-20.14.45:107][667]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.14.45:107][667]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.01.09-20.14.45:107][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016782s)
+[2019.01.09-20.14.45:137][667]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.14.45:147][667]LogInit: FAudioDevice initialized.
+[2019.01.09-20.14.45:178][667]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.14.45:181][667]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.14.45
+[2019.01.09-20.14.45:181][667]LogWorld: Bringing up level for play took: 0.001642
+[2019.01.09-20.14.45:193][667]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,349
+[2019.01.09-20.14.45:238][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.14.54:356][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.14.54:440][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.14.54:441][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.14.54:470][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.14.54:471][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.14.54:495][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.14.54:544][747]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.09-20.15.05:561][ 69]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.15.13:917][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.15.30:930][ 91]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.01.09-20.15.32:361][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.15.32:453][271]LogTemp: Repeating last play command: Simulate
+[2019.01.09-20.15.32:465][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.15.32:465][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.15.32:465][271]PIE: New page: SIE session: FirstTestBench (10 янв. 2019 г., 2:15:32)
+[2019.01.09-20.15.32:465][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.15.32:482][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016629s)
+[2019.01.09-20.15.32:482][271]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.15.32:483][271]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2019.01.09-20.15.32:483][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.017601s)
+[2019.01.09-20.15.32:516][271]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.15.32:525][271]LogInit: FAudioDevice initialized.
+[2019.01.09-20.15.32:552][271]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.15.32:554][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.15.32
+[2019.01.09-20.15.32:554][271]LogWorld: Bringing up level for play took: 0.001536
+[2019.01.09-20.15.32:566][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 1,025
+[2019.01.09-20.15.32:572][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.15.33:800][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.15.33:801][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.15.33:831][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.15.33:831][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.15.33:855][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.15.33:906][418]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.01.09-20.15.36:516][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.15.36:516][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.15.36:517][729]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:15:36)
+[2019.01.09-20.15.36:517][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.15.36:534][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016976s)
+[2019.01.09-20.15.36:534][729]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.15.36:534][729]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2019.01.09-20.15.36:534][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.017714s)
+[2019.01.09-20.15.36:565][729]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.15.36:575][729]LogInit: FAudioDevice initialized.
+[2019.01.09-20.15.36:603][729]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.15.36:605][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.15.36
+[2019.01.09-20.15.36:606][729]LogWorld: Bringing up level for play took: 0.001459
+[2019.01.09-20.15.36:618][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 1,076
+[2019.01.09-20.15.36:618][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.16.09:225][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.16.18:897][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.16.23:383][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.16.33:196][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.16.47:703][234]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.16.51:989][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.16.54:665][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.16.54:699][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.16.54:700][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.16.54:736][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.16.54:736][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.16.54:762][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.16.54:799][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.09-20.16.56:701][298]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.01.09-20.17.07:162][546]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.17.09:144][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.17.17:579][710]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.17.22:358][279]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.17.23:976][472]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.17.30:321][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.17.41:670][590]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.17.43:013][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.17.50:732][676]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.17.52:967][944]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.17.55:752][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.17.57:233][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.17.57:247][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.17.57:247][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.17.57:247][435]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:17:57)
+[2019.01.09-20.17.57:247][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.17.57:263][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015934s)
+[2019.01.09-20.17.57:263][435]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.17.57:263][435]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2019.01.09-20.17.57:263][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016517s)
+[2019.01.09-20.17.57:296][435]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.17.57:306][435]LogInit: FAudioDevice initialized.
+[2019.01.09-20.17.57:336][435]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.17.57:339][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.17.57
+[2019.01.09-20.17.57:339][435]LogWorld: Bringing up level for play took: 0.001547
+[2019.01.09-20.17.57:351][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,19
+[2019.01.09-20.17.57:351][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.06:105][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.18.23:861][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.18.25:775][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.18.29:281][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.18.32:808][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.18.34:865][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.18.36:697][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.18.43:747][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.18.43:922][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.18.43:943][468]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCamA5B0E3544525A9C6EC82E9B4D23B274F.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.18.45:132][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.45:132][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.18.45:164][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.18.45:164][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.45:189][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.18.45:237][610]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.09-20.18.46:896][761]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.18.47:523][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.18.47:545][815]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCamB0CE8D8A428C2EB7DCFE1CBDB119CA55.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.18.49:089][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.18.49:756][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.18.49:856][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.18.49:869][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.49:869][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.18.49:869][ 43]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:18:49)
+[2019.01.09-20.18.49:869][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.18.49:886][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016401s)
+[2019.01.09-20.18.49:886][ 43]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.18.49:886][ 43]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.01.09-20.18.49:886][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016999s)
+[2019.01.09-20.18.49:914][ 43]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.18.49:924][ 43]LogInit: FAudioDevice initialized.
+[2019.01.09-20.18.49:956][ 43]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.18.49:959][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.18.49
+[2019.01.09-20.18.49:959][ 43]LogWorld: Bringing up level for play took: 0.002274
+[2019.01.09-20.18.49:972][ 43]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,431
+[2019.01.09-20.18.49:972][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.52:197][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.52:198][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.18.52:229][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.18.52:229][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.18.52:250][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.18.52:300][310]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.01.09-20.18.53:010][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.19.12:196][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.19.18:923][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.19.19:041][664]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.19.19:054][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.19.19:054][664]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.09-20.19.19:056][664]LogPlayLevel: [PlayLevel] Compiling PawnStaticCam before play...
+[2019.01.09-20.19.19:185][664]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2019.01.09-20.19.19:185][664]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:19:19)
+[2019.01.09-20.19.19:185][664]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.19.19:201][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015653s)
+[2019.01.09-20.19.19:201][664]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.19.19:201][664]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2019.01.09-20.19.19:201][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016339s)
+[2019.01.09-20.19.19:238][664]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.19.19:251][664]LogInit: FAudioDevice initialized.
+[2019.01.09-20.19.19:282][664]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.19.19:284][664]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.19.19
+[2019.01.09-20.19.19:284][664]LogWorld: Bringing up level for play took: 0.001501
+[2019.01.09-20.19.19:297][664]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,244
+[2019.01.09-20.19.19:297][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.19.43:790][256]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.19.43:790][256]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.19.45:620][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.19.45:620][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.19.45:656][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.19.45:657][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.19.45:681][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.19.45:724][476]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.01.09-20.19.51:355][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.19.55:481][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.19.55:606][602]BlueprintLog: New page: Compile PawnStaticCam
+[2019.01.09-20.19.56:621][703]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.19.56:634][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.19.56:634][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.19.56:634][703]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:19:56)
+[2019.01.09-20.19.56:635][703]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.19.56:651][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016339s)
+[2019.01.09-20.19.56:651][703]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.19.56:652][703]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2019.01.09-20.19.56:652][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016966s)
+[2019.01.09-20.19.56:683][703]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.19.56:692][703]LogInit: FAudioDevice initialized.
+[2019.01.09-20.19.56:727][703]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.19.56:729][703]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.19.56
+[2019.01.09-20.19.56:729][703]LogWorld: Bringing up level for play took: 0.001946
+[2019.01.09-20.19.56:742][703]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench -0,8
+[2019.01.09-20.19.56:742][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.20.07:003][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.20.22:146][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.20.22:229][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.20.22:229][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.20.22:261][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.20.22:262][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.20.22:287][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.20.22:330][729]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.01.09-20.20.56:301][218]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.20.56:301][218]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.21.07:870][454]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.21.07:883][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.07:883][454]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.09-20.21.07:884][454]LogPlayLevel: [PlayLevel] Compiling PawnStaticCam before play...
+[2019.01.09-20.21.08:007][454]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2019.01.09-20.21.08:007][454]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:21:08)
+[2019.01.09-20.21.08:007][454]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.21.08:023][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015879s)
+[2019.01.09-20.21.08:024][454]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.21.08:024][454]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.01.09-20.21.08:024][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.016467s)
+[2019.01.09-20.21.08:049][454]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.21.08:061][454]LogInit: FAudioDevice initialized.
+[2019.01.09-20.21.08:091][454]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.21.08:093][454]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.21.08
+[2019.01.09-20.21.08:093][454]LogWorld: Bringing up level for play took: 0.001519
+[2019.01.09-20.21.08:106][454]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,565
+[2019.01.09-20.21.08:106][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.11:729][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.11:730][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.21.11:764][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.21.11:764][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.11:787][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.21.11:834][882]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.01.09-20.21.13:332][ 61]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.01.09-20.21.19:333][670]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.21.21:920][923]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.21.25:084][245]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.21.26:922][431]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.21.29:616][736]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.09-20.21.32:056][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.21.32:181][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.09-20.21.32:196][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.32:196][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.09-20.21.32:196][ 39]PIE: New page: PIE session: FirstTestBench (10 янв. 2019 г., 2:21:32)
+[2019.01.09-20.21.32:196][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstTestBench
+[2019.01.09-20.21.32:214][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017190s)
+[2019.01.09-20.21.32:214][ 39]LogAIModule: Creating AISystem for world FirstTestBench
+[2019.01.09-20.21.32:214][ 39]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2019.01.09-20.21.32:214][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstTestBench.FirstTestBench to /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench (0.017913s)
+[2019.01.09-20.21.32:247][ 39]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.09-20.21.32:257][ 39]LogInit: FAudioDevice initialized.
+[2019.01.09-20.21.32:289][ 39]LogLoad: Game class is 'StaticCamWithObserverGameMode_C'
+[2019.01.09-20.21.32:291][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstTestBench.FirstTestBench up for play (max tick rate 0) at 2019.01.09-23.21.32
+[2019.01.09-20.21.32:292][ 39]LogWorld: Bringing up level for play took: 0.001593
+[2019.01.09-20.21.32:304][ 39]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstTestBench 0,763
+[2019.01.09-20.21.32:304][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.35:995][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.35:995][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.21.36:030][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.09-20.21.36:031][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench' with GeneratedClass '/Game/Maps/FirstTestBench.FirstTestBench_C' with ClassGeneratedBy '/Game/Maps/FirstTestBench.FirstTestBench:PersistentLevel.FirstTestBench'
+[2019.01.09-20.21.36:054][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.09-20.21.36:099][478]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.01.09-20.23.28:271][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.23.28:271][ 46]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.09-20.23.32:290][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.24.52:628][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.24.52:740][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.09-20.24.52:990][674]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench2331A83B4E661187030D9BA994868986.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap'
+[2019.01.09-20.24.53:010][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench_BuiltData" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset" SILENT=true
+[2019.01.09-20.24.53:023][674]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench_BuiltData73DD74F8440618B8870A039727C6E727.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset'
+[2019.01.09-20.24.59:708][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.25.00:232][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.09-20.25.00:245][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/StaticCam/PawnStaticCam" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset" SILENT=true
+[2019.01.09-20.25.00:305][213]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/PawnStaticCam2F07B3A1467F3BBB973DFDB20B62BC44.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Character/StaticCam/PawnStaticCam.uasset'
+[2019.01.09-20.25.01:590][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.25.01:723][373]LogSlate: Window 'PawnStaticCam' being destroyed
+[2019.01.09-20.25.01:728][373]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.09-20.25.02:819][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.01.09-20.25.04:347][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.09-20.25.04:440][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.09-20.25.04:685][688]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBenchA25AFD614EEE4D8B299D348E0C47C1BC.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench.umap'
+[2019.01.09-20.25.04:705][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstTestBench_BuiltData" FILE="../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset" SILENT=true
+[2019.01.09-20.25.04:714][688]LogSavePackage: Moving '../../../../../MyVRProjects/VR_MMO_RPG/Saved/FirstTestBench_BuiltData721C3BDA419638FC56786E8F72E810E3.tmp' to '../../../../../MyVRProjects/VR_MMO_RPG/Content/Maps/FirstTestBench_BuiltData.uasset'
